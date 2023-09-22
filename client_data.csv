@@ -1,0 +1,501 @@
+Client,Risk Tolerance,Financial Goals,Time Period,Investment Horizon,Preferred Services,Investment Experience,ROI,Risk Aversion,Customer Service,Security,Flexibility
+Client 1,High,Insurance,26,Short,"Stocks, Ariel, Recon, Mutual Fund",High,Medium,High,Good,High,Low
+Client 2,Medium,Insurance,20,Long,"Recon, Insurance",Low,Medium,Medium,Good,Low,Medium
+Client 3,High,Investment,57,Long,DNAV,High,Low,Low,Good,Low,Medium
+Client 4,High,Stocks,59,Medium,"Ariel, Retirement, Stocks, Insurance",Medium,Low,High,Good,Low,Low
+Client 5,Low,Insurance,67,Short,Stocks,High,Medium,Low,Excellent,Low,Medium
+Client 6,Medium,Investment,1,Long,Retirement,Medium,Low,High,Excellent,High,Low
+Client 7,High,Investment,1,Short,"Stocks, Insurance, Retirement, Mutual Fund, Ariel, Recon, MLOps, DNAV",Medium,Medium,Low,Excellent,Low,Medium
+Client 8,High,Stocks,28,Long,"Insurance, Stocks, Retirement",Medium,Low,High,Good,Medium,Low
+Client 9,Medium,Insurance,39,Short,"DNAV, Mutual Fund, Retirement, Insurance, Ariel, Recon, MLOps",Low,Medium,Low,Excellent,Medium,Low
+Client 10,Low,Stocks,46,Medium,MLOps,Medium,Medium,Low,Good,Medium,High
+Client 11,High,Insurance,74,Short,"Stocks, Ariel, Retirement",High,Low,Medium,Poor,Medium,High
+Client 12,Low,Stocks,63,Medium,"DNAV, Mutual Fund, MLOps",Low,High,High,Good,Medium,Medium
+Client 13,Medium,Insurance,21,Short,"MLOps, Stocks, DNAV",Medium,Low,Low,Good,High,Medium
+Client 14,Medium,Stocks,6,Short,"DNAV, Stocks",Medium,Medium,Medium,Excellent,Low,Medium
+Client 15,Medium,Investment,37,Long,"Stocks, MLOps, Ariel, Mutual Fund, Insurance",Low,High,High,Excellent,Medium,Low
+Client 16,Medium,Stocks,32,Medium,"Recon, Retirement, MLOps",High,Low,Medium,Excellent,High,Low
+Client 17,High,Stocks,79,Long,"Recon, Stocks, MLOps, Mutual Fund, Retirement, Insurance",Low,Medium,Medium,Good,Medium,Low
+Client 18,Medium,Stocks,34,Long,"Insurance, Retirement, DNAV, Stocks, Mutual Fund, Recon",High,Medium,Low,Excellent,Low,High
+Client 19,Medium,Stocks,39,Short,"MLOps, Mutual Fund, Retirement, Stocks, Insurance, DNAV, Recon, Ariel",High,High,Medium,Good,High,Low
+Client 20,High,Stocks,25,Long,"Insurance, Mutual Fund, Stocks, DNAV, MLOps, Recon, Ariel",High,High,Medium,Excellent,Low,Medium
+Client 21,Medium,Insurance,6,Short,"Ariel, Insurance, Retirement",Low,High,Low,Poor,Medium,Medium
+Client 22,High,Insurance,27,Medium,"MLOps, Ariel",Low,Medium,Medium,Excellent,Low,Medium
+Client 23,Low,Stocks,36,Medium,"DNAV, Stocks, Ariel, Mutual Fund",Medium,Low,Low,Good,Medium,Medium
+Client 24,Low,Insurance,31,Short,"Insurance, Stocks, Recon",Low,Low,Low,Excellent,Low,Medium
+Client 25,High,Investment,5,Long,"Recon, Retirement",High,Medium,Medium,Excellent,High,Low
+Client 26,Low,Investment,77,Medium,"Stocks, Retirement, Mutual Fund, MLOps, Ariel, Recon",Low,Low,Low,Poor,High,Low
+Client 27,Low,Stocks,29,Medium,"DNAV, Recon, Stocks, MLOps",Medium,Low,Low,Poor,Low,Medium
+Client 28,Medium,Investment,48,Medium,"Mutual Fund, Ariel, Retirement, MLOps, Recon",Low,Low,Low,Excellent,Medium,Medium
+Client 29,Medium,Stocks,28,Long,"Ariel, Mutual Fund, Recon, Stocks, MLOps, DNAV, Retirement",High,Medium,Low,Good,Medium,Low
+Client 30,Medium,Investment,63,Long,"Mutual Fund, Retirement, DNAV, Stocks, Ariel, Recon, Insurance, MLOps",Medium,High,Low,Poor,Low,Low
+Client 31,Low,Stocks,24,Long,"DNAV, MLOps, Recon",Low,High,Low,Excellent,Medium,Low
+Client 32,Medium,Insurance,11,Medium,"Insurance, Mutual Fund, Retirement",High,High,High,Excellent,High,Medium
+Client 33,Low,Stocks,71,Medium,"Ariel, DNAV, Stocks, Recon, Retirement, Mutual Fund",Low,Medium,High,Poor,High,High
+Client 34,Medium,Insurance,62,Short,"Insurance, Ariel, Stocks",Low,Medium,Low,Good,High,Medium
+Client 35,Low,Investment,11,Medium,"DNAV, Recon, Mutual Fund, Retirement, MLOps",Medium,Low,Low,Poor,High,Low
+Client 36,High,Stocks,20,Long,Ariel,Low,Low,High,Good,Medium,Low
+Client 37,Low,Insurance,69,Short,"DNAV, Stocks, Mutual Fund",High,Low,High,Good,Low,High
+Client 38,High,Investment,72,Medium,"Ariel, DNAV, MLOps, Recon, Mutual Fund, Retirement, Stocks",High,High,Low,Good,Medium,High
+Client 39,Medium,Investment,49,Long,"DNAV, Insurance, Stocks, Recon, Mutual Fund, Ariel",High,Medium,High,Excellent,Low,High
+Client 40,High,Stocks,9,Long,"Retirement, MLOps, Stocks, DNAV, Ariel",Low,High,Low,Good,Medium,Medium
+Client 41,Medium,Insurance,54,Short,DNAV,Low,Medium,High,Poor,High,Medium
+Client 42,Medium,Investment,53,Short,"MLOps, Mutual Fund, Ariel, DNAV, Stocks, Insurance, Retirement",High,Medium,Medium,Good,High,Low
+Client 43,Medium,Insurance,48,Medium,"Insurance, Ariel, Stocks, MLOps, Retirement, Mutual Fund",Medium,High,Low,Excellent,High,Low
+Client 44,Medium,Stocks,5,Short,"Recon, Stocks",High,High,High,Good,High,Low
+Client 45,Low,Insurance,65,Medium,"Insurance, Recon, Stocks, Ariel, DNAV, MLOps, Retirement",Medium,Low,High,Excellent,High,Medium
+Client 46,Low,Investment,6,Long,"Mutual Fund, Stocks, Retirement, Insurance, Recon, MLOps, Ariel",Low,Low,Medium,Poor,High,High
+Client 47,Medium,Stocks,34,Short,"Stocks, Mutual Fund, Recon, Insurance, Retirement, Ariel",Low,Medium,Medium,Excellent,High,Medium
+Client 48,Medium,Insurance,38,Medium,"Recon, DNAV, Stocks, Mutual Fund, MLOps, Ariel, Retirement, Insurance",Low,High,Medium,Excellent,High,High
+Client 49,Medium,Insurance,46,Medium,"MLOps, Retirement, Ariel, Mutual Fund, Insurance, Recon, DNAV, Stocks",Medium,High,High,Poor,High,Low
+Client 50,Low,Insurance,42,Long,"Mutual Fund, Insurance, Stocks, MLOps, Ariel, Recon, Retirement, DNAV",Medium,Medium,High,Good,Medium,Low
+Client 51,Medium,Stocks,19,Long,Retirement,High,High,Medium,Poor,Medium,Low
+Client 52,High,Insurance,76,Medium,Retirement,Low,Medium,Medium,Excellent,High,Low
+Client 53,Medium,Investment,12,Short,"DNAV, Ariel, Mutual Fund, Retirement, Stocks, MLOps, Insurance",Low,High,High,Good,Medium,Low
+Client 54,Medium,Investment,3,Long,"Mutual Fund, Ariel, Insurance, Retirement, Recon",Medium,Medium,Medium,Poor,Low,Medium
+Client 55,Medium,Investment,58,Short,Stocks,Low,Low,Medium,Good,Low,Medium
+Client 56,Low,Investment,32,Medium,MLOps,High,Medium,High,Good,High,High
+Client 57,Low,Insurance,43,Medium,Mutual Fund,High,Medium,Medium,Excellent,High,Medium
+Client 58,High,Stocks,6,Medium,"Recon, Insurance, Ariel, Stocks, DNAV",High,High,Low,Excellent,Low,Low
+Client 59,High,Insurance,8,Medium,"Retirement, Stocks, Insurance, Ariel, Mutual Fund",Medium,Low,High,Good,Medium,Low
+Client 60,Low,Insurance,48,Short,"Mutual Fund, DNAV, MLOps, Stocks, Recon, Retirement",Low,Low,Low,Excellent,High,High
+Client 61,Low,Stocks,27,Short,"Recon, DNAV, Stocks, MLOps",Medium,Low,High,Poor,High,Medium
+Client 62,Low,Insurance,68,Medium,"Retirement, Insurance, DNAV",High,Low,Low,Excellent,High,Low
+Client 63,High,Stocks,41,Long,"Insurance, DNAV",Medium,High,Low,Good,High,Low
+Client 64,Medium,Investment,29,Short,"Ariel, Stocks, Retirement, Mutual Fund, MLOps",Low,High,High,Good,Medium,Low
+Client 65,Low,Stocks,15,Long,"Ariel, Mutual Fund, Stocks, Recon, MLOps, DNAV, Insurance",High,High,High,Excellent,Low,Low
+Client 66,High,Stocks,9,Medium,Insurance,Low,High,Medium,Excellent,Low,High
+Client 67,High,Stocks,77,Short,"Retirement, Recon, Insurance, Mutual Fund, Ariel, MLOps, DNAV, Stocks",Low,High,High,Poor,Medium,Low
+Client 68,Low,Investment,11,Short,DNAV,Medium,Medium,Low,Poor,Medium,High
+Client 69,Medium,Stocks,59,Medium,"DNAV, MLOps",High,High,High,Poor,High,Medium
+Client 70,High,Stocks,24,Medium,MLOps,Low,Low,Medium,Good,Low,Low
+Client 71,Low,Investment,70,Medium,"Mutual Fund, Ariel, Stocks",High,High,Low,Excellent,High,High
+Client 72,Medium,Insurance,68,Short,"Mutual Fund, Recon, MLOps, DNAV, Insurance, Stocks, Ariel",Medium,High,Low,Poor,High,Low
+Client 73,Medium,Investment,15,Long,Insurance,High,High,Low,Poor,Medium,High
+Client 74,Medium,Insurance,7,Medium,"Recon, Retirement, MLOps, Ariel, Mutual Fund",Low,Medium,Low,Good,High,Low
+Client 75,High,Investment,78,Short,"Ariel, MLOps, Insurance, DNAV, Mutual Fund, Recon, Retirement, Stocks",Medium,Low,Medium,Poor,Low,Medium
+Client 76,Medium,Stocks,74,Long,Recon,Medium,Medium,High,Good,Low,Medium
+Client 77,High,Insurance,69,Long,Recon,Low,High,Medium,Excellent,Medium,High
+Client 78,Medium,Stocks,32,Medium,Insurance,Low,Medium,Low,Good,Medium,High
+Client 79,High,Investment,30,Short,"Ariel, Mutual Fund, Stocks, Recon",Medium,Low,High,Excellent,High,Medium
+Client 80,Low,Stocks,31,Short,"Ariel, Retirement, Insurance, Mutual Fund, DNAV, MLOps, Recon, Stocks",Low,Low,Medium,Poor,Low,Medium
+Client 81,Low,Investment,38,Short,"Ariel, DNAV, Mutual Fund, MLOps",High,High,Low,Poor,High,Medium
+Client 82,Medium,Investment,32,Short,"DNAV, Mutual Fund, Retirement, Insurance",Low,Low,High,Excellent,Medium,Low
+Client 83,High,Insurance,68,Short,"Ariel, DNAV, MLOps",Low,Medium,Low,Excellent,Low,Medium
+Client 84,Low,Insurance,7,Long,"Stocks, MLOps, Insurance, Recon, Mutual Fund, Retirement, DNAV",Medium,Medium,Low,Poor,Medium,Low
+Client 85,High,Stocks,72,Short,"Insurance, MLOps",High,High,Medium,Excellent,Medium,Low
+Client 86,High,Stocks,12,Short,"Retirement, Mutual Fund",Medium,Low,Low,Good,Medium,Low
+Client 87,High,Investment,7,Medium,Mutual Fund,Medium,Medium,Medium,Excellent,Low,Low
+Client 88,Low,Insurance,71,Medium,"Stocks, MLOps",Low,High,Low,Poor,Medium,Medium
+Client 89,High,Insurance,78,Medium,"DNAV, Recon, Ariel, Retirement, Insurance, Stocks, MLOps",Medium,Low,Medium,Excellent,Medium,Low
+Client 90,High,Insurance,80,Medium,"Recon, Stocks, Mutual Fund",High,Medium,Medium,Poor,High,Medium
+Client 91,Medium,Insurance,11,Short,"Recon, Retirement, Mutual Fund, Ariel",High,High,Low,Poor,Low,Low
+Client 92,Medium,Insurance,44,Short,"Stocks, Insurance, MLOps, Recon, Ariel",Low,Low,Low,Excellent,High,Low
+Client 93,Low,Insurance,48,Long,"Mutual Fund, MLOps, Recon, Retirement",Low,High,Medium,Good,Medium,Low
+Client 94,Medium,Stocks,72,Short,"DNAV, Stocks, Retirement, MLOps, Mutual Fund",High,Low,Low,Excellent,High,Low
+Client 95,Medium,Investment,77,Short,"MLOps, Stocks, Insurance, Retirement, DNAV, Recon",Low,Low,Low,Good,High,High
+Client 96,High,Stocks,64,Medium,"Insurance, Mutual Fund, Ariel",High,High,Low,Poor,Medium,High
+Client 97,Low,Insurance,23,Medium,"Retirement, DNAV, Recon, Mutual Fund, Stocks, Ariel",High,High,Low,Poor,Medium,Medium
+Client 98,Low,Investment,57,Medium,"Ariel, DNAV, Retirement, Stocks, Recon, Insurance",High,Medium,High,Poor,Medium,Low
+Client 99,High,Investment,47,Short,"Recon, Stocks, Ariel, DNAV, Retirement, MLOps, Insurance",High,Medium,Medium,Good,Medium,Medium
+Client 100,Low,Investment,45,Long,"Insurance, DNAV, Retirement, Stocks, Ariel",Medium,Medium,Low,Good,Low,High
+Client 101,Low,Stocks,34,Short,"Stocks, Mutual Fund, Recon, MLOps, DNAV, Retirement, Insurance, Ariel",High,Medium,High,Good,Medium,Medium
+Client 102,Low,Stocks,78,Short,"MLOps, Recon, DNAV, Insurance, Mutual Fund, Retirement",High,High,Low,Poor,Medium,Medium
+Client 103,Medium,Insurance,72,Short,"Retirement, Mutual Fund",Medium,High,High,Excellent,High,Low
+Client 104,High,Insurance,42,Medium,"Stocks, DNAV, Mutual Fund",High,Low,Low,Excellent,Medium,High
+Client 105,High,Insurance,20,Long,"MLOps, Mutual Fund, Ariel, Retirement, Recon, DNAV, Insurance, Stocks",Medium,High,High,Poor,Low,Low
+Client 106,High,Insurance,3,Long,"Insurance, Recon",High,Medium,High,Excellent,High,Medium
+Client 107,Low,Investment,41,Long,"Stocks, MLOps, DNAV, Retirement",High,Low,Medium,Poor,Medium,High
+Client 108,High,Insurance,22,Short,"Insurance, Mutual Fund, MLOps",Low,High,Medium,Excellent,Medium,Low
+Client 109,Medium,Insurance,63,Short,"Mutual Fund, Stocks",Low,Low,Medium,Excellent,Low,Low
+Client 110,Low,Investment,8,Short,"Insurance, Mutual Fund, Ariel, Recon, Retirement",High,High,High,Excellent,Low,High
+Client 111,Low,Investment,37,Medium,"DNAV, Mutual Fund",Low,Medium,Medium,Poor,Medium,Low
+Client 112,Medium,Insurance,18,Medium,"Insurance, Stocks, MLOps, DNAV, Ariel, Mutual Fund, Recon",High,High,High,Poor,High,Medium
+Client 113,High,Stocks,34,Short,"MLOps, Ariel, Insurance, Recon",High,Medium,Low,Good,High,Medium
+Client 114,Low,Stocks,51,Long,"Insurance, MLOps, DNAV, Mutual Fund",Medium,Low,Medium,Excellent,Low,Medium
+Client 115,Medium,Stocks,59,Short,Stocks,Low,Low,Medium,Poor,High,Medium
+Client 116,Medium,Investment,65,Medium,"Stocks, Ariel",High,Medium,Medium,Excellent,Low,Medium
+Client 117,Low,Insurance,60,Long,"Mutual Fund, Ariel, Insurance",Low,High,Medium,Poor,High,High
+Client 118,Medium,Stocks,58,Short,"Stocks, Ariel, Insurance, Recon, DNAV, MLOps, Retirement, Mutual Fund",Low,High,Medium,Good,Medium,Low
+Client 119,Medium,Investment,63,Long,"Recon, Ariel",High,Medium,High,Poor,Medium,Medium
+Client 120,Low,Investment,28,Medium,"DNAV, Insurance, Mutual Fund, Retirement, Stocks, MLOps, Ariel, Recon",Low,High,High,Poor,Medium,Low
+Client 121,Medium,Investment,71,Short,"Stocks, Insurance",Low,High,High,Good,High,Low
+Client 122,Low,Insurance,27,Long,"Ariel, Insurance, Retirement, Mutual Fund",Medium,Medium,Low,Excellent,Medium,High
+Client 123,Low,Stocks,77,Short,"DNAV, Retirement, MLOps, Insurance, Stocks, Mutual Fund, Recon",Low,Medium,Medium,Poor,Low,Low
+Client 124,High,Stocks,7,Long,"Recon, Mutual Fund, DNAV, Insurance, Stocks, Ariel",Low,High,High,Poor,Low,Medium
+Client 125,High,Stocks,38,Long,"Insurance, Ariel, MLOps, Stocks, Mutual Fund, Recon",Medium,Medium,Low,Excellent,Medium,Low
+Client 126,Medium,Stocks,27,Short,"Mutual Fund, MLOps, Insurance, Ariel, Recon, Retirement, DNAV",Medium,High,Low,Excellent,Low,Low
+Client 127,High,Stocks,33,Long,"Ariel, Retirement, Stocks",High,Medium,High,Poor,Medium,High
+Client 128,Medium,Stocks,21,Medium,"Insurance, Ariel",Low,Medium,Low,Poor,Medium,High
+Client 129,Medium,Investment,64,Long,"Mutual Fund, Ariel, MLOps, Stocks, Recon",High,Medium,High,Good,Medium,Medium
+Client 130,Low,Investment,10,Medium,"MLOps, Retirement, Mutual Fund",Low,High,Low,Good,Low,Medium
+Client 131,Low,Stocks,9,Medium,"Mutual Fund, DNAV, MLOps, Ariel, Recon",Medium,Low,High,Good,Low,High
+Client 132,High,Insurance,12,Long,Mutual Fund,Medium,High,High,Excellent,Medium,Low
+Client 133,High,Investment,46,Medium,"Ariel, Retirement, MLOps",Low,Medium,Low,Poor,High,Medium
+Client 134,Low,Insurance,56,Medium,"Stocks, MLOps, Mutual Fund",Low,Low,Medium,Excellent,Medium,Medium
+Client 135,Medium,Stocks,65,Medium,"Insurance, MLOps, Retirement, DNAV, Stocks, Recon",Medium,Medium,High,Poor,Low,Medium
+Client 136,Medium,Investment,77,Long,"Stocks, Mutual Fund",Low,Medium,High,Poor,High,Low
+Client 137,Low,Insurance,79,Long,Recon,Medium,High,Medium,Good,High,High
+Client 138,High,Stocks,34,Long,"Mutual Fund, Insurance, Retirement, Recon, DNAV, MLOps",Medium,Low,Low,Excellent,Low,High
+Client 139,Low,Investment,78,Medium,"Recon, Mutual Fund, DNAV",Medium,Low,High,Poor,Medium,Low
+Client 140,High,Stocks,33,Long,"Ariel, Retirement, MLOps, DNAV, Recon, Insurance, Stocks",Medium,High,Low,Good,Low,Medium
+Client 141,Low,Stocks,9,Long,"Recon, Stocks, Ariel",Medium,Medium,Low,Good,Low,Medium
+Client 142,Medium,Stocks,49,Medium,"Mutual Fund, Retirement, Insurance, Ariel, MLOps, Recon, Stocks, DNAV",Low,Low,Medium,Good,Medium,High
+Client 143,High,Insurance,36,Short,"DNAV, Insurance, Stocks, Recon, Mutual Fund, Retirement, Ariel, MLOps",High,Medium,Low,Excellent,High,Medium
+Client 144,Medium,Stocks,34,Long,"Ariel, Insurance, Retirement",High,Low,High,Excellent,High,Low
+Client 145,Low,Investment,3,Long,"MLOps, Mutual Fund, Ariel, Stocks, DNAV",Medium,Low,High,Good,Medium,High
+Client 146,Medium,Investment,58,Long,"Mutual Fund, Insurance, Ariel, Recon, DNAV",Low,High,Low,Excellent,Medium,Medium
+Client 147,Medium,Insurance,77,Long,"Insurance, Stocks, Ariel, MLOps, Mutual Fund, Recon",Low,High,High,Good,High,High
+Client 148,Medium,Stocks,2,Short,"Recon, DNAV, Retirement, Ariel, Stocks, MLOps, Mutual Fund, Insurance",Low,High,High,Poor,Medium,High
+Client 149,Medium,Stocks,66,Short,DNAV,Medium,High,Medium,Good,Medium,High
+Client 150,High,Stocks,19,Medium,"Stocks, MLOps, Recon, Ariel",High,High,High,Excellent,Medium,Low
+Client 151,Medium,Investment,65,Medium,"Stocks, Insurance, MLOps, Retirement, DNAV, Ariel",High,Medium,Low,Excellent,Medium,Low
+Client 152,Medium,Investment,6,Long,"Recon, Stocks, Retirement, Ariel, DNAV, Insurance, MLOps",Medium,Low,High,Excellent,Medium,Medium
+Client 153,High,Stocks,52,Short,"MLOps, Ariel, Stocks, Retirement",High,Low,Medium,Good,Medium,High
+Client 154,High,Stocks,14,Short,"Ariel, DNAV, Mutual Fund",Medium,Medium,Medium,Good,Medium,High
+Client 155,Low,Investment,11,Long,DNAV,Medium,High,Medium,Good,Medium,Low
+Client 156,Medium,Investment,46,Medium,"DNAV, Insurance, MLOps, Recon, Retirement",High,High,Low,Poor,High,High
+Client 157,Low,Insurance,15,Short,"MLOps, Insurance, Mutual Fund, DNAV, Recon, Stocks, Retirement",Low,Medium,Medium,Poor,High,High
+Client 158,Low,Investment,66,Long,"DNAV, Stocks, Ariel",Low,Medium,Medium,Good,Low,High
+Client 159,Low,Insurance,56,Medium,"Retirement, Stocks, Ariel, MLOps, Recon, DNAV, Mutual Fund",Medium,Medium,High,Poor,High,Medium
+Client 160,High,Insurance,55,Short,"Retirement, MLOps, Ariel, Stocks, DNAV, Insurance, Mutual Fund, Recon",Low,Low,High,Good,Low,Low
+Client 161,Low,Insurance,74,Short,"Recon, Ariel, Retirement",Medium,High,High,Good,Medium,High
+Client 162,High,Investment,31,Medium,"Mutual Fund, Stocks, Ariel, DNAV, Insurance, MLOps, Retirement",High,Low,Medium,Poor,Medium,High
+Client 163,Medium,Insurance,22,Long,"Mutual Fund, Retirement, Recon, Stocks, Ariel, MLOps",Medium,High,Low,Good,Low,Low
+Client 164,High,Insurance,49,Long,"Mutual Fund, Stocks",Low,Low,Medium,Good,Medium,Medium
+Client 165,Low,Investment,50,Long,"MLOps, DNAV, Stocks, Insurance, Ariel",Low,High,Medium,Excellent,High,Medium
+Client 166,Medium,Investment,38,Short,"Retirement, Mutual Fund, Insurance, MLOps",Low,High,High,Poor,Low,Medium
+Client 167,Medium,Insurance,28,Medium,"MLOps, Ariel, Stocks, DNAV, Insurance",High,Low,Medium,Poor,Medium,Low
+Client 168,High,Stocks,33,Medium,"Stocks, Ariel, Recon, DNAV, Mutual Fund, Retirement",Low,Low,Medium,Poor,High,High
+Client 169,Medium,Insurance,27,Medium,"Recon, MLOps, DNAV, Ariel, Mutual Fund, Stocks, Insurance",High,High,Low,Excellent,High,High
+Client 170,Low,Investment,54,Medium,"Insurance, DNAV, Retirement",Medium,High,High,Poor,High,Medium
+Client 171,High,Investment,62,Long,DNAV,High,Low,High,Good,Low,Low
+Client 172,High,Stocks,29,Medium,"Ariel, DNAV, Retirement",Low,Medium,High,Good,Low,Medium
+Client 173,Medium,Insurance,32,Long,"Ariel, Mutual Fund, DNAV",High,Low,High,Excellent,Medium,High
+Client 174,Low,Stocks,42,Medium,"MLOps, Insurance, Retirement, Stocks, Recon, Ariel",High,Low,Medium,Excellent,Low,Low
+Client 175,Medium,Stocks,29,Medium,"Insurance, MLOps, Ariel",Low,Medium,Medium,Excellent,Medium,High
+Client 176,High,Investment,44,Short,"Insurance, DNAV, Mutual Fund, Recon, Retirement, Ariel, Stocks, MLOps",High,Medium,High,Good,High,High
+Client 177,Medium,Investment,40,Medium,"Insurance, Ariel, Stocks, Recon",Medium,Low,Low,Poor,High,Medium
+Client 178,Low,Investment,19,Short,"Ariel, Mutual Fund",Medium,Low,High,Excellent,High,Medium
+Client 179,High,Investment,41,Long,"Ariel, DNAV, Mutual Fund, Recon, Retirement, Stocks",Low,Medium,High,Poor,Medium,High
+Client 180,Medium,Insurance,21,Medium,Recon,Low,Medium,Medium,Poor,Medium,Medium
+Client 181,Medium,Stocks,32,Medium,"Insurance, Stocks",Low,Medium,High,Excellent,High,Medium
+Client 182,Medium,Insurance,55,Medium,"Ariel, Recon",Medium,High,Medium,Poor,Medium,High
+Client 183,High,Stocks,7,Long,"Retirement, MLOps, Ariel, Mutual Fund, DNAV",Low,Medium,Low,Good,High,Medium
+Client 184,High,Investment,18,Short,"Stocks, DNAV, Retirement, Recon, Ariel, Mutual Fund, MLOps, Insurance",High,High,Medium,Excellent,Low,High
+Client 185,High,Insurance,63,Short,"Mutual Fund, Ariel, Retirement, Stocks, Insurance, Recon, MLOps",High,Medium,Low,Poor,Low,Low
+Client 186,Low,Insurance,3,Medium,"Recon, Mutual Fund, MLOps, DNAV, Retirement, Ariel, Insurance",Medium,Low,Low,Poor,Low,Low
+Client 187,Medium,Stocks,20,Long,"MLOps, Insurance, Mutual Fund, Retirement, DNAV",Low,Low,High,Good,Medium,High
+Client 188,Medium,Investment,53,Short,"Mutual Fund, Retirement",Low,High,Low,Good,Medium,Medium
+Client 189,Medium,Insurance,40,Medium,"Insurance, Stocks, MLOps, Recon, Retirement",Medium,High,High,Poor,Medium,Low
+Client 190,High,Investment,15,Medium,"DNAV, Mutual Fund, Stocks, Ariel, Insurance, MLOps, Recon, Retirement",High,High,High,Poor,Low,Medium
+Client 191,Low,Insurance,9,Medium,"Retirement, DNAV, Stocks, Ariel, Insurance, Recon, Mutual Fund, MLOps",Medium,High,Medium,Poor,Medium,Low
+Client 192,High,Insurance,70,Long,"Ariel, Insurance, Stocks, MLOps, Mutual Fund, Recon, Retirement",Medium,Low,High,Excellent,High,Low
+Client 193,Medium,Investment,8,Long,"Recon, Retirement, DNAV, MLOps",Low,Low,Medium,Poor,High,Medium
+Client 194,High,Investment,38,Medium,"Mutual Fund, Retirement, Insurance, Ariel, Stocks",Medium,High,Medium,Excellent,High,Low
+Client 195,Low,Stocks,73,Medium,"MLOps, Retirement, Ariel, Mutual Fund, Recon, DNAV, Insurance",Low,Low,High,Excellent,Low,Medium
+Client 196,Medium,Insurance,23,Long,"Recon, Insurance",High,High,High,Poor,Low,Low
+Client 197,Medium,Insurance,49,Short,Stocks,High,High,Medium,Poor,Medium,Medium
+Client 198,Low,Stocks,14,Medium,"Ariel, Retirement, Insurance, Recon, MLOps, Stocks, Mutual Fund, DNAV",Low,High,Low,Good,High,Medium
+Client 199,Medium,Stocks,16,Short,"Ariel, Retirement, MLOps, DNAV",Medium,Low,High,Excellent,Low,High
+Client 200,High,Insurance,2,Short,"Insurance, Mutual Fund, DNAV, Retirement",High,Medium,High,Poor,High,High
+Client 201,High,Insurance,25,Medium,"Retirement, DNAV, Insurance, MLOps, Recon, Stocks, Ariel, Mutual Fund",Low,Low,Medium,Excellent,High,Medium
+Client 202,Medium,Insurance,44,Medium,"Retirement, Mutual Fund, Ariel, Insurance, MLOps, Stocks, Recon",Medium,High,High,Poor,High,Low
+Client 203,Medium,Insurance,3,Long,"Ariel, Mutual Fund, Insurance, DNAV, MLOps, Retirement, Recon, Stocks",High,Medium,Low,Good,Medium,High
+Client 204,Medium,Insurance,80,Short,"Retirement, Mutual Fund, Insurance, DNAV",Medium,Low,Low,Excellent,Low,Medium
+Client 205,Medium,Stocks,46,Short,"MLOps, Mutual Fund, Ariel, DNAV, Stocks",Low,Medium,Low,Poor,Low,Low
+Client 206,Medium,Investment,3,Medium,"DNAV, Stocks, Insurance, Retirement, Mutual Fund, Recon",Medium,High,Low,Excellent,Medium,Medium
+Client 207,High,Stocks,61,Medium,"Ariel, MLOps, Mutual Fund, Insurance, Retirement, DNAV, Stocks",High,Medium,High,Excellent,Medium,Medium
+Client 208,High,Insurance,57,Medium,"DNAV, Mutual Fund, Insurance, Recon, MLOps, Retirement",Medium,Medium,Medium,Poor,Low,Low
+Client 209,High,Stocks,33,Medium,Mutual Fund,Low,Medium,Low,Poor,Medium,Medium
+Client 210,High,Investment,42,Long,"Insurance, MLOps",Low,Medium,Medium,Good,Low,High
+Client 211,Low,Investment,16,Short,"Retirement, Recon, MLOps",Medium,Low,Low,Poor,Low,Low
+Client 212,Medium,Insurance,47,Short,Mutual Fund,Low,Medium,High,Good,Low,Low
+Client 213,Medium,Insurance,32,Long,"Insurance, Retirement, Mutual Fund, Stocks, DNAV, Recon, Ariel",High,High,High,Poor,Low,Low
+Client 214,High,Investment,18,Medium,"Mutual Fund, MLOps, DNAV, Stocks, Retirement",Medium,High,Low,Poor,High,Low
+Client 215,High,Stocks,8,Long,"DNAV, MLOps, Recon, Mutual Fund",Low,Low,High,Poor,Medium,High
+Client 216,Medium,Stocks,11,Short,Recon,Low,High,Low,Excellent,High,Low
+Client 217,High,Insurance,8,Long,"Retirement, MLOps, DNAV, Insurance, Stocks, Mutual Fund, Recon, Ariel",High,High,Medium,Excellent,Low,High
+Client 218,Low,Stocks,77,Medium,"Insurance, Stocks, MLOps, DNAV, Retirement, Recon",Medium,High,Medium,Good,High,High
+Client 219,Medium,Stocks,10,Short,"DNAV, Mutual Fund, Retirement, Ariel, Recon, Insurance, MLOps, Stocks",High,Low,Medium,Poor,Low,Medium
+Client 220,High,Investment,67,Long,"Retirement, Mutual Fund, Recon, Ariel, Insurance",Low,Medium,Medium,Good,Low,Low
+Client 221,Low,Stocks,17,Long,"Ariel, DNAV, Stocks, Insurance, Retirement",Medium,High,Low,Good,High,Medium
+Client 222,Low,Investment,22,Long,"Retirement, DNAV, Stocks",High,High,High,Good,High,Low
+Client 223,High,Insurance,9,Short,"MLOps, Recon, Stocks, Ariel, Insurance, Retirement, Mutual Fund",Low,Medium,Low,Excellent,Medium,Medium
+Client 224,Medium,Insurance,18,Medium,Recon,Low,Low,High,Poor,Low,Medium
+Client 225,Low,Insurance,20,Short,"Ariel, Stocks, Retirement, Insurance, DNAV",Low,Low,Low,Excellent,High,High
+Client 226,Low,Insurance,75,Medium,"Ariel, DNAV, Insurance, MLOps, Retirement, Stocks, Mutual Fund",Low,Medium,High,Poor,High,High
+Client 227,Medium,Investment,41,Long,"Mutual Fund, DNAV, Insurance, Retirement, MLOps, Recon, Ariel, Stocks",Low,Low,Low,Poor,Low,Medium
+Client 228,Medium,Stocks,3,Long,"MLOps, Recon, Ariel, DNAV, Stocks, Insurance, Mutual Fund",Low,Low,High,Excellent,High,Low
+Client 229,Medium,Investment,63,Medium,"Mutual Fund, Stocks, Recon, Insurance",Medium,High,High,Good,Medium,Low
+Client 230,Low,Insurance,7,Short,"Mutual Fund, Recon, Retirement, DNAV, MLOps, Stocks",Low,Medium,High,Poor,Low,Medium
+Client 231,Low,Insurance,72,Long,"Retirement, Mutual Fund",High,Low,Medium,Poor,High,High
+Client 232,High,Insurance,45,Long,Insurance,Medium,Low,Low,Excellent,High,Low
+Client 233,High,Stocks,47,Short,"Insurance, Ariel, Recon, Stocks, Mutual Fund",Medium,Low,Low,Good,Low,High
+Client 234,Medium,Stocks,42,Medium,"Mutual Fund, Stocks, DNAV",Low,High,Low,Good,High,Medium
+Client 235,High,Investment,37,Long,"DNAV, Retirement, Ariel, Insurance, Recon, Stocks",High,High,High,Good,Medium,Medium
+Client 236,Medium,Stocks,46,Short,"Insurance, DNAV",Medium,Low,Low,Poor,Low,High
+Client 237,High,Investment,43,Short,"Insurance, MLOps, Stocks",Medium,Medium,High,Excellent,High,Low
+Client 238,High,Insurance,76,Short,"Stocks, Recon, DNAV",High,High,High,Poor,Medium,Low
+Client 239,Low,Stocks,5,Short,"Retirement, MLOps, Stocks, DNAV, Insurance, Mutual Fund, Ariel",High,High,Low,Good,Low,High
+Client 240,Medium,Investment,62,Medium,"Recon, MLOps, Retirement, Mutual Fund, Stocks, DNAV, Insurance",High,High,High,Good,High,High
+Client 241,High,Investment,22,Medium,"Ariel, Insurance, Retirement, Mutual Fund, Stocks, Recon, MLOps, DNAV",Medium,Medium,Low,Excellent,Medium,Medium
+Client 242,High,Investment,72,Short,"Retirement, Recon, Mutual Fund, Ariel, DNAV, MLOps, Insurance, Stocks",High,Medium,Medium,Excellent,High,Medium
+Client 243,Low,Stocks,62,Medium,"Retirement, Ariel, Stocks, DNAV",High,Medium,Medium,Good,Medium,Medium
+Client 244,High,Investment,61,Medium,"Mutual Fund, DNAV, Ariel, Retirement",Medium,High,Medium,Excellent,Low,High
+Client 245,Medium,Insurance,25,Medium,"Mutual Fund, DNAV, MLOps, Ariel, Stocks, Recon, Retirement",High,Medium,Medium,Poor,Medium,High
+Client 246,Medium,Stocks,40,Long,"Recon, Retirement",Medium,High,Medium,Good,Low,High
+Client 247,High,Insurance,26,Medium,"Ariel, DNAV, Mutual Fund",Medium,High,Medium,Good,High,Medium
+Client 248,Low,Insurance,59,Medium,"DNAV, Ariel, Stocks, MLOps, Retirement, Mutual Fund",Low,Medium,Low,Poor,Medium,Medium
+Client 249,Medium,Stocks,6,Short,"MLOps, Stocks, Recon, DNAV, Mutual Fund, Insurance, Retirement, Ariel",High,Low,Low,Excellent,Low,Low
+Client 250,Low,Stocks,73,Short,"Recon, Ariel, Retirement, Mutual Fund, Stocks, DNAV",High,Low,Low,Poor,High,High
+Client 251,Low,Stocks,5,Medium,"MLOps, Retirement, DNAV",Medium,High,Low,Excellent,High,Low
+Client 252,Medium,Insurance,72,Medium,"Ariel, DNAV, Recon, Retirement",Medium,Medium,Medium,Poor,High,Medium
+Client 253,Medium,Insurance,32,Short,"Retirement, Insurance, DNAV, Recon, Mutual Fund, Ariel, MLOps",Medium,Medium,Medium,Good,Low,Medium
+Client 254,Low,Insurance,52,Medium,"DNAV, Ariel, Recon",Low,High,Medium,Excellent,High,High
+Client 255,High,Stocks,7,Short,Ariel,Low,High,Low,Excellent,Medium,Medium
+Client 256,Low,Insurance,26,Medium,"Recon, DNAV",Medium,Low,High,Poor,Medium,High
+Client 257,Low,Insurance,71,Long,"Retirement, Mutual Fund, Insurance, Stocks",Medium,Low,Medium,Good,Low,Low
+Client 258,Low,Stocks,12,Short,"Insurance, Retirement",High,Low,High,Excellent,Low,Medium
+Client 259,Low,Investment,12,Long,DNAV,Medium,Medium,High,Poor,High,Medium
+Client 260,High,Insurance,22,Short,"Insurance, Ariel, Recon, Stocks, MLOps, DNAV",Medium,Low,Medium,Good,Low,High
+Client 261,High,Insurance,52,Long,"Mutual Fund, Insurance, MLOps, Stocks",High,Medium,Medium,Poor,Low,Medium
+Client 262,Low,Insurance,14,Short,"Retirement, Mutual Fund, DNAV, Recon, Insurance, MLOps, Ariel",Low,High,Low,Poor,Medium,Low
+Client 263,High,Insurance,9,Medium,"MLOps, Insurance, Stocks, Retirement, Recon",Medium,Low,Low,Poor,Low,Low
+Client 264,High,Stocks,73,Long,"MLOps, DNAV, Recon",Medium,High,High,Excellent,Medium,Medium
+Client 265,Low,Investment,48,Long,"Recon, MLOps, Ariel",Medium,High,Medium,Good,High,Low
+Client 266,High,Stocks,75,Long,"MLOps, Insurance, Retirement, Stocks, DNAV, Recon, Mutual Fund, Ariel",Medium,Medium,High,Poor,High,High
+Client 267,Low,Insurance,19,Medium,"Mutual Fund, DNAV, Ariel, MLOps",High,Low,Medium,Good,Low,Medium
+Client 268,Medium,Stocks,21,Medium,"Ariel, Retirement, MLOps",Low,High,High,Poor,Medium,High
+Client 269,Medium,Stocks,22,Short,"DNAV, Retirement, MLOps, Mutual Fund, Insurance, Recon, Ariel, Stocks",High,Low,Medium,Excellent,Medium,Low
+Client 270,Medium,Stocks,57,Short,Retirement,Low,Medium,High,Excellent,Low,Medium
+Client 271,High,Stocks,6,Short,"Recon, Stocks, Insurance, Mutual Fund, MLOps, Ariel",High,Low,Medium,Good,Low,Low
+Client 272,Low,Stocks,64,Short,"Mutual Fund, Recon",High,Medium,High,Good,Low,High
+Client 273,High,Insurance,78,Medium,Stocks,Medium,High,Medium,Good,Low,Low
+Client 274,High,Investment,47,Medium,"Retirement, MLOps, Stocks, Recon, Insurance",Medium,Low,Medium,Excellent,High,Low
+Client 275,Low,Investment,6,Long,"DNAV, Recon, MLOps, Mutual Fund",Medium,High,Low,Poor,Low,Medium
+Client 276,Medium,Stocks,71,Medium,"Mutual Fund, DNAV",Medium,Medium,Medium,Excellent,Medium,Medium
+Client 277,Medium,Stocks,56,Short,"Mutual Fund, Ariel",Medium,High,High,Good,High,Medium
+Client 278,Medium,Investment,60,Short,"Retirement, Recon, Stocks, Ariel, Insurance, Mutual Fund, DNAV",High,Low,Low,Poor,Low,Medium
+Client 279,High,Insurance,22,Short,"Mutual Fund, Stocks, DNAV",Medium,High,Medium,Poor,High,Medium
+Client 280,Medium,Investment,19,Medium,"Recon, Insurance, MLOps, Stocks, Ariel, Mutual Fund, DNAV, Retirement",Low,High,Medium,Excellent,Low,Low
+Client 281,High,Stocks,75,Short,Retirement,Medium,Low,Medium,Excellent,Medium,Medium
+Client 282,Low,Stocks,16,Medium,"MLOps, Ariel, Mutual Fund, DNAV, Insurance, Stocks, Recon, Retirement",High,Low,Medium,Excellent,Low,Low
+Client 283,High,Stocks,19,Medium,"Mutual Fund, Retirement, Ariel, Stocks, Insurance, DNAV",Medium,Medium,Medium,Poor,Medium,High
+Client 284,Low,Stocks,14,Medium,"Recon, Mutual Fund, MLOps",Medium,Medium,Medium,Good,High,Medium
+Client 285,Low,Insurance,51,Short,"MLOps, Recon, Stocks",Medium,Low,High,Good,Medium,Medium
+Client 286,Medium,Stocks,80,Medium,Recon,Medium,Low,Medium,Excellent,Medium,Low
+Client 287,High,Investment,7,Short,"Ariel, Retirement, Mutual Fund, Stocks",Low,High,Low,Good,Medium,Medium
+Client 288,Low,Investment,9,Long,Insurance,Low,Low,High,Poor,High,Low
+Client 289,High,Insurance,32,Short,"Ariel, Retirement, Mutual Fund, MLOps",Medium,Medium,High,Poor,High,High
+Client 290,Low,Insurance,21,Medium,"DNAV, Ariel, Insurance, Recon",High,Low,High,Poor,Medium,High
+Client 291,High,Investment,28,Medium,"Mutual Fund, Stocks, DNAV, Recon, Insurance, Retirement",Medium,Low,Medium,Excellent,Medium,High
+Client 292,High,Investment,60,Short,"Retirement, Mutual Fund, DNAV, MLOps, Recon, Stocks, Insurance",Low,High,High,Good,High,Low
+Client 293,High,Insurance,26,Short,"Retirement, MLOps, Ariel, Recon",Medium,High,Medium,Good,High,Medium
+Client 294,High,Insurance,75,Medium,"Mutual Fund, Stocks, Retirement, Ariel, DNAV, Recon, MLOps",Low,Medium,Medium,Poor,Medium,Low
+Client 295,Low,Insurance,26,Medium,"Ariel, Retirement, Stocks, Insurance",Low,Medium,Low,Excellent,High,Low
+Client 296,Medium,Stocks,32,Medium,"MLOps, Insurance, DNAV, Stocks, Retirement, Mutual Fund, Recon, Ariel",High,Low,Low,Poor,High,Low
+Client 297,Low,Insurance,19,Medium,"Recon, Insurance, Stocks, Ariel",Low,Medium,Medium,Excellent,High,High
+Client 298,Low,Investment,69,Medium,"Recon, Mutual Fund, Retirement, Stocks",High,Medium,High,Poor,Medium,Low
+Client 299,Low,Insurance,75,Long,"Recon, DNAV, Retirement, Mutual Fund, Insurance, MLOps, Ariel",Low,High,Medium,Poor,Low,Low
+Client 300,Low,Investment,48,Short,Stocks,Low,Low,High,Excellent,Medium,High
+Client 301,Low,Insurance,48,Medium,"Stocks, MLOps, Retirement, Ariel, Mutual Fund, Insurance, Recon, DNAV",Medium,Medium,Low,Excellent,High,High
+Client 302,High,Investment,34,Long,MLOps,Medium,Medium,Medium,Excellent,Low,Medium
+Client 303,Low,Stocks,46,Medium,"MLOps, Recon, Retirement",High,Medium,Medium,Poor,High,Medium
+Client 304,Medium,Insurance,14,Short,Ariel,High,High,Medium,Good,Medium,Medium
+Client 305,Medium,Insurance,41,Medium,"Insurance, MLOps, Ariel, Mutual Fund, Retirement, DNAV, Recon",Medium,Medium,High,Good,Medium,Medium
+Client 306,High,Insurance,31,Medium,"Insurance, Recon",Low,Low,Medium,Good,Low,Medium
+Client 307,Low,Investment,26,Medium,"MLOps, Retirement, DNAV, Stocks",Medium,Medium,Medium,Poor,Medium,Medium
+Client 308,Medium,Insurance,26,Long,"DNAV, MLOps",Medium,Medium,Low,Good,Medium,High
+Client 309,Medium,Insurance,40,Short,"Stocks, MLOps, Insurance, Retirement, Recon, Ariel",Medium,Low,High,Poor,High,High
+Client 310,Medium,Stocks,16,Long,"Recon, Retirement, MLOps, Mutual Fund, Ariel, Insurance",Low,Low,Medium,Good,High,High
+Client 311,Medium,Stocks,49,Medium,"Retirement, Ariel, Insurance, DNAV, Mutual Fund, MLOps",Low,Medium,Low,Good,Medium,Medium
+Client 312,Low,Insurance,74,Long,"Mutual Fund, Recon, Ariel, Retirement, Insurance, Stocks, DNAV",High,Low,High,Poor,High,Medium
+Client 313,Medium,Stocks,75,Short,"Recon, DNAV, Insurance, Ariel, Mutual Fund, Retirement",High,High,Medium,Excellent,Low,High
+Client 314,High,Investment,57,Short,"Stocks, Retirement, DNAV, Mutual Fund, Ariel",High,High,Medium,Poor,Low,Low
+Client 315,High,Investment,64,Short,"Stocks, Ariel, Mutual Fund, DNAV",Medium,High,High,Good,Low,High
+Client 316,Medium,Investment,78,Long,"Mutual Fund, Ariel, Insurance, Recon, DNAV, Stocks",Medium,Low,High,Poor,Medium,Low
+Client 317,Medium,Stocks,56,Medium,"Mutual Fund, Retirement, DNAV, Insurance, Stocks",Low,Low,Low,Poor,Medium,Low
+Client 318,Low,Investment,22,Medium,"Retirement, MLOps, Stocks, Recon, Mutual Fund, Insurance, DNAV, Ariel",Low,Medium,Medium,Excellent,Low,Medium
+Client 319,Medium,Stocks,29,Short,"DNAV, Retirement, Mutual Fund",Low,Medium,Low,Excellent,Low,Low
+Client 320,Medium,Insurance,73,Long,"Ariel, MLOps, Insurance",Low,High,Medium,Poor,Low,High
+Client 321,Low,Insurance,30,Short,"Ariel, Retirement",Medium,High,Medium,Good,Low,Medium
+Client 322,Medium,Insurance,71,Short,"Retirement, Ariel, Insurance, Stocks, Recon, MLOps",High,Medium,High,Excellent,High,Low
+Client 323,High,Insurance,58,Long,"MLOps, Recon, Mutual Fund, Ariel, DNAV, Retirement",Low,Medium,High,Good,High,Low
+Client 324,Medium,Stocks,50,Long,"DNAV, MLOps, Mutual Fund, Recon",High,Medium,High,Poor,High,Medium
+Client 325,High,Insurance,44,Medium,"Insurance, Stocks, DNAV, Mutual Fund, Ariel, MLOps, Recon",Low,Medium,Low,Good,Low,High
+Client 326,Low,Stocks,18,Long,"Ariel, Retirement, Mutual Fund, Stocks, MLOps",Low,Medium,Low,Excellent,High,Medium
+Client 327,Medium,Investment,32,Medium,Insurance,Low,Low,High,Excellent,High,High
+Client 328,Low,Insurance,36,Long,"Recon, Insurance, Mutual Fund, Ariel, Retirement, Stocks, MLOps",High,Medium,Low,Excellent,High,Medium
+Client 329,Medium,Stocks,61,Long,"Stocks, Retirement",Medium,Medium,High,Poor,High,Low
+Client 330,Low,Insurance,37,Medium,"MLOps, Ariel, Retirement, Insurance",Medium,Medium,High,Excellent,Low,Low
+Client 331,High,Investment,2,Short,"Stocks, Ariel, Mutual Fund, Insurance, Retirement, Recon",High,Low,Medium,Good,High,Low
+Client 332,High,Investment,48,Short,"Retirement, MLOps, Insurance, Ariel, DNAV, Stocks, Recon",High,High,High,Excellent,High,Low
+Client 333,Low,Insurance,6,Medium,"DNAV, Ariel, Stocks, Mutual Fund, Recon, Retirement, Insurance",Medium,Medium,Low,Poor,High,Medium
+Client 334,Medium,Stocks,25,Medium,Retirement,Medium,High,High,Poor,High,Low
+Client 335,Low,Investment,68,Long,"Recon, Ariel, Mutual Fund, DNAV, Retirement",Medium,Medium,Low,Poor,Medium,Low
+Client 336,High,Stocks,63,Long,"Insurance, Ariel",High,Low,High,Good,Low,Low
+Client 337,Low,Insurance,63,Medium,"MLOps, DNAV, Ariel, Retirement, Stocks, Mutual Fund",Low,High,Low,Excellent,High,Medium
+Client 338,High,Stocks,45,Long,Insurance,Medium,Low,Low,Good,Medium,High
+Client 339,High,Insurance,1,Medium,"Mutual Fund, Retirement, Stocks",High,Low,Medium,Poor,Medium,Low
+Client 340,Medium,Investment,32,Short,"Ariel, DNAV, Mutual Fund, Stocks",Low,High,Medium,Poor,Medium,High
+Client 341,High,Insurance,14,Long,"Insurance, MLOps, Ariel, Retirement, DNAV, Recon, Mutual Fund",Medium,Medium,High,Excellent,Low,Medium
+Client 342,Medium,Stocks,75,Short,"Ariel, Stocks, MLOps, DNAV, Mutual Fund",High,High,Medium,Poor,Low,Low
+Client 343,Medium,Investment,20,Short,"Mutual Fund, Recon, Insurance, DNAV",Medium,Low,Medium,Poor,Medium,Low
+Client 344,Low,Insurance,3,Medium,"Mutual Fund, Ariel",Medium,Medium,High,Good,Medium,High
+Client 345,High,Stocks,70,Short,Insurance,Low,Medium,Low,Good,Medium,Low
+Client 346,Medium,Stocks,11,Medium,"Stocks, DNAV, Mutual Fund, Insurance, Retirement, MLOps, Recon, Ariel",Medium,Low,High,Excellent,High,High
+Client 347,High,Stocks,76,Medium,"MLOps, Retirement, Mutual Fund, DNAV, Ariel",High,Low,Low,Excellent,High,High
+Client 348,Low,Insurance,75,Short,"Mutual Fund, Insurance, MLOps, Ariel, Recon, DNAV, Stocks, Retirement",Low,High,Low,Excellent,High,Medium
+Client 349,Low,Insurance,27,Short,"Stocks, Ariel",High,High,Medium,Excellent,Low,Low
+Client 350,High,Investment,46,Medium,"Recon, Stocks, Ariel, Retirement, MLOps, DNAV, Mutual Fund",High,High,High,Poor,Low,Low
+Client 351,Low,Stocks,14,Medium,DNAV,Medium,High,High,Good,Medium,High
+Client 352,Medium,Investment,21,Medium,"Recon, DNAV, MLOps, Ariel, Retirement, Insurance, Mutual Fund",Medium,Medium,High,Excellent,Medium,High
+Client 353,Medium,Insurance,35,Short,"DNAV, Mutual Fund, Stocks, MLOps, Ariel, Retirement, Insurance",Low,Low,Medium,Excellent,Medium,Medium
+Client 354,Low,Insurance,6,Short,Retirement,High,Medium,Low,Poor,High,Low
+Client 355,High,Investment,8,Medium,"DNAV, Recon, Ariel, MLOps, Insurance",High,Low,High,Good,Low,High
+Client 356,Low,Insurance,75,Short,"Insurance, Mutual Fund",High,High,Medium,Excellent,Low,High
+Client 357,High,Insurance,37,Long,"Stocks, Recon, MLOps, Ariel, Mutual Fund, Insurance, Retirement",Low,High,High,Good,Medium,Low
+Client 358,High,Investment,44,Long,"Mutual Fund, Stocks",High,High,Low,Good,Low,Medium
+Client 359,Medium,Insurance,48,Short,"Recon, Stocks, MLOps, Retirement, DNAV, Mutual Fund, Ariel",Low,High,Medium,Good,Medium,Medium
+Client 360,High,Stocks,49,Long,"Retirement, DNAV, MLOps, Ariel",High,High,Medium,Good,Medium,Medium
+Client 361,Low,Investment,25,Long,"MLOps, Insurance, Retirement, DNAV, Ariel, Recon, Mutual Fund, Stocks",Medium,High,Medium,Poor,Low,High
+Client 362,Medium,Stocks,67,Short,"DNAV, Insurance, Retirement",Medium,Low,Medium,Excellent,Low,High
+Client 363,Low,Investment,56,Medium,"Ariel, MLOps, Mutual Fund, Recon, Stocks, Retirement, DNAV",High,Low,Low,Good,Medium,High
+Client 364,High,Insurance,34,Long,Insurance,Medium,Medium,High,Excellent,Medium,Medium
+Client 365,Low,Investment,3,Long,"MLOps, Stocks, Recon, Insurance, Retirement, Ariel",Medium,High,High,Good,High,Low
+Client 366,High,Stocks,72,Medium,"Stocks, DNAV, Insurance, MLOps, Mutual Fund",Low,High,Medium,Good,Medium,High
+Client 367,High,Investment,75,Medium,DNAV,Low,Medium,Low,Excellent,Medium,Medium
+Client 368,Medium,Stocks,2,Medium,"Stocks, Recon, Insurance, Mutual Fund, Ariel",Medium,High,High,Poor,Medium,Medium
+Client 369,Low,Investment,14,Short,"Stocks, Retirement, Mutual Fund, Insurance",High,Low,Low,Excellent,Low,Medium
+Client 370,Low,Insurance,72,Long,"Insurance, Retirement, Ariel, MLOps, Stocks, DNAV",High,Medium,Low,Poor,Low,Low
+Client 371,Medium,Investment,53,Long,"Stocks, MLOps, DNAV, Recon, Ariel",High,High,High,Poor,High,High
+Client 372,Low,Insurance,61,Short,"Ariel, DNAV, MLOps, Recon, Insurance, Mutual Fund, Retirement",High,Low,Medium,Good,Low,Low
+Client 373,Low,Stocks,52,Short,"Retirement, Insurance",Medium,Medium,High,Poor,Low,Low
+Client 374,Medium,Investment,37,Long,"Ariel, Mutual Fund, Insurance, Recon, DNAV",High,Medium,High,Poor,Low,High
+Client 375,Medium,Insurance,78,Short,"Stocks, Insurance, MLOps, Ariel, Mutual Fund",High,Low,Medium,Poor,Medium,Medium
+Client 376,Medium,Investment,11,Short,"DNAV, Recon, MLOps, Stocks, Insurance, Mutual Fund, Retirement",High,Low,Low,Excellent,High,Medium
+Client 377,Low,Investment,30,Medium,Recon,High,High,High,Excellent,High,High
+Client 378,High,Insurance,8,Medium,"Recon, Stocks, Mutual Fund, MLOps, DNAV, Retirement, Ariel, Insurance",Low,High,Medium,Poor,Low,Medium
+Client 379,High,Insurance,51,Medium,"MLOps, Mutual Fund, DNAV",High,High,Medium,Good,High,High
+Client 380,Medium,Insurance,72,Short,"Retirement, Ariel, MLOps, DNAV, Stocks, Mutual Fund, Recon, Insurance",Low,Medium,Low,Excellent,Medium,Low
+Client 381,High,Stocks,19,Long,"Ariel, Recon, DNAV, MLOps, Mutual Fund, Stocks, Insurance",Low,Medium,High,Excellent,Medium,Medium
+Client 382,Medium,Insurance,37,Medium,"DNAV, Stocks, Mutual Fund, Ariel, Insurance",Medium,Medium,Medium,Good,Medium,High
+Client 383,Medium,Investment,38,Medium,"DNAV, MLOps, Recon, Stocks, Mutual Fund",High,Low,Low,Poor,Medium,Low
+Client 384,High,Stocks,53,Long,Recon,High,Medium,High,Good,Low,Medium
+Client 385,Low,Stocks,47,Short,Mutual Fund,High,High,High,Good,High,High
+Client 386,High,Investment,66,Medium,"MLOps, Retirement, Mutual Fund",Medium,Medium,Low,Excellent,Low,Medium
+Client 387,High,Stocks,15,Medium,"Retirement, Ariel, MLOps, DNAV",Medium,High,High,Poor,Low,Low
+Client 388,High,Stocks,67,Short,"Stocks, Recon, MLOps, Insurance, Ariel",Medium,Medium,Low,Excellent,Low,High
+Client 389,Medium,Stocks,29,Short,"MLOps, Recon, Ariel, Retirement, DNAV, Mutual Fund, Insurance",High,High,Low,Poor,Low,Low
+Client 390,Medium,Stocks,73,Short,"Mutual Fund, Insurance, DNAV, Recon, Retirement",High,Low,Low,Excellent,Low,Low
+Client 391,Low,Insurance,50,Short,"Retirement, Ariel, DNAV, MLOps, Recon",Low,High,High,Excellent,Low,Low
+Client 392,Low,Stocks,22,Medium,"Insurance, Stocks, MLOps, Recon, Ariel, Retirement",High,Medium,High,Excellent,Low,Medium
+Client 393,High,Investment,25,Short,"Mutual Fund, Ariel, Recon, DNAV, Retirement, Stocks, Insurance, MLOps",Medium,Medium,Medium,Good,Medium,Medium
+Client 394,Low,Stocks,4,Long,"Insurance, MLOps, Stocks, Ariel, Retirement",Low,Low,High,Poor,Low,High
+Client 395,Low,Investment,19,Medium,"DNAV, Recon, Retirement",Low,High,Low,Excellent,Low,Medium
+Client 396,Medium,Stocks,35,Medium,"Recon, Stocks, Retirement, Mutual Fund",High,High,High,Good,High,Low
+Client 397,Medium,Insurance,2,Medium,"Ariel, DNAV, MLOps, Mutual Fund, Stocks, Recon",Low,High,Low,Good,Low,Medium
+Client 398,Low,Stocks,16,Medium,"Insurance, Recon, Ariel, Stocks, MLOps, DNAV, Retirement, Mutual Fund",High,Medium,Medium,Good,Low,Low
+Client 399,Medium,Stocks,21,Short,Retirement,High,High,High,Good,Low,Low
+Client 400,High,Insurance,71,Short,"Retirement, Recon, Ariel, Mutual Fund, DNAV, MLOps, Stocks, Insurance",Medium,High,High,Poor,Medium,Low
+Client 401,Low,Insurance,74,Medium,"Retirement, Stocks, MLOps",Low,High,Low,Good,High,High
+Client 402,High,Insurance,61,Short,"Mutual Fund, DNAV, Stocks, Insurance",Low,Low,High,Excellent,Low,Low
+Client 403,Medium,Insurance,56,Short,"Retirement, Mutual Fund",Medium,Medium,Low,Excellent,High,Low
+Client 404,Medium,Stocks,8,Medium,"Mutual Fund, Ariel, Retirement, Stocks, Insurance, Recon, DNAV",Medium,Medium,High,Excellent,High,High
+Client 405,Medium,Insurance,62,Medium,"Mutual Fund, MLOps, DNAV, Insurance",Low,High,Low,Poor,Low,Low
+Client 406,Medium,Stocks,18,Long,"Mutual Fund, DNAV, MLOps, Stocks, Retirement",High,Low,High,Poor,High,Medium
+Client 407,High,Stocks,3,Medium,"Insurance, Mutual Fund, Recon, MLOps",High,Low,Medium,Poor,High,Low
+Client 408,Low,Insurance,37,Short,"DNAV, Ariel, Mutual Fund, Stocks, MLOps, Insurance, Retirement",High,High,Low,Good,Low,Low
+Client 409,Medium,Stocks,38,Short,"DNAV, Insurance, Mutual Fund, Recon",Medium,Low,Medium,Good,Medium,Medium
+Client 410,High,Stocks,7,Medium,"Retirement, Stocks",High,Medium,High,Poor,High,High
+Client 411,High,Insurance,16,Long,"DNAV, Insurance, Mutual Fund, MLOps, Retirement, Stocks, Ariel, Recon",Low,Medium,Medium,Poor,Low,High
+Client 412,Low,Stocks,38,Medium,"Stocks, Ariel, Recon",Medium,Low,Medium,Poor,Low,High
+Client 413,Low,Investment,46,Long,"Retirement, Insurance, MLOps",Low,Medium,Low,Good,Low,High
+Client 414,High,Insurance,9,Long,"Recon, Mutual Fund, DNAV, Retirement, Insurance",Medium,High,Medium,Good,Medium,High
+Client 415,High,Investment,76,Medium,"Retirement, Insurance, Stocks",Medium,High,Low,Poor,High,High
+Client 416,Medium,Insurance,1,Medium,"Ariel, Stocks, DNAV, Insurance, Recon, MLOps, Retirement, Mutual Fund",Low,High,Low,Poor,High,Low
+Client 417,Low,Stocks,8,Long,Insurance,Low,Medium,High,Poor,Medium,Low
+Client 418,Low,Stocks,11,Medium,"Ariel, Insurance, DNAV",High,Low,Medium,Poor,Medium,High
+Client 419,High,Stocks,36,Short,"MLOps, Retirement, Stocks, Insurance, DNAV, Recon, Ariel, Mutual Fund",Low,Medium,Low,Excellent,Low,High
+Client 420,Medium,Investment,64,Medium,"Recon, Stocks, Insurance, Retirement, DNAV",Low,Low,High,Good,Medium,High
+Client 421,Low,Stocks,76,Short,"Mutual Fund, Recon, Ariel, Retirement",High,High,High,Good,High,Low
+Client 422,Medium,Stocks,19,Short,"Mutual Fund, Retirement, MLOps, Ariel, Stocks",Medium,Low,High,Good,Low,Low
+Client 423,High,Investment,52,Medium,"Insurance, Stocks, Retirement, Recon, DNAV",High,Low,Medium,Poor,High,Medium
+Client 424,Low,Investment,4,Long,"Insurance, Recon, DNAV, Retirement, Ariel, Mutual Fund, Stocks, MLOps",Low,Low,High,Poor,Low,Low
+Client 425,Low,Insurance,25,Medium,"Insurance, Recon, Ariel, Stocks, DNAV, Mutual Fund",High,High,High,Poor,Medium,Medium
+Client 426,Medium,Insurance,39,Long,"MLOps, Retirement, DNAV, Mutual Fund, Ariel, Stocks, Recon, Insurance",Low,Medium,High,Excellent,Medium,Low
+Client 427,High,Investment,45,Long,"MLOps, Stocks, Recon, DNAV, Insurance",Medium,Low,Low,Excellent,High,Medium
+Client 428,Medium,Stocks,3,Medium,"DNAV, Ariel, Mutual Fund",Medium,Medium,High,Good,Medium,High
+Client 429,Medium,Insurance,70,Long,"MLOps, Stocks, Recon, Mutual Fund, Ariel, DNAV, Insurance, Retirement",Medium,Medium,High,Good,High,High
+Client 430,Low,Stocks,48,Medium,"Recon, Stocks, Retirement, Insurance, MLOps",High,High,High,Poor,Medium,Low
+Client 431,High,Insurance,39,Medium,"DNAV, Insurance, Stocks",High,Low,Low,Good,Medium,Medium
+Client 432,High,Investment,60,Short,"Mutual Fund, Insurance, Ariel, MLOps, Stocks, Recon, DNAV",High,Medium,Medium,Poor,High,Low
+Client 433,High,Investment,54,Short,"Retirement, Recon, MLOps",Low,Low,High,Good,High,Low
+Client 434,Medium,Stocks,49,Medium,"Insurance, MLOps, DNAV, Stocks, Ariel, Mutual Fund, Recon",Low,Low,Low,Good,Low,High
+Client 435,Medium,Investment,72,Long,"Stocks, Ariel, Recon, Retirement",High,Low,High,Excellent,Low,Medium
+Client 436,Low,Stocks,4,Short,"DNAV, Insurance, Retirement, Mutual Fund, Recon, Ariel, MLOps",Low,Medium,Medium,Poor,Medium,Low
+Client 437,Medium,Investment,80,Short,"Stocks, MLOps, DNAV, Mutual Fund, Ariel, Retirement, Recon, Insurance",Low,Medium,High,Poor,Low,Medium
+Client 438,Medium,Insurance,48,Short,"Stocks, Insurance, Ariel",High,Medium,Low,Poor,Low,High
+Client 439,Low,Stocks,13,Medium,Mutual Fund,High,High,Medium,Excellent,Medium,Low
+Client 440,High,Insurance,35,Short,"Stocks, Recon, Ariel, MLOps, Insurance, DNAV",Medium,High,Medium,Good,High,High
+Client 441,Low,Insurance,47,Medium,"DNAV, Mutual Fund, Recon, Ariel, MLOps",Low,High,High,Poor,Low,Low
+Client 442,Low,Insurance,71,Short,"DNAV, Insurance, Ariel, Stocks, Retirement",Medium,Low,Low,Poor,High,Medium
+Client 443,Medium,Investment,14,Medium,"Stocks, Insurance, DNAV, Mutual Fund, Retirement, Recon, MLOps",Medium,High,High,Poor,High,Medium
+Client 444,Low,Insurance,4,Medium,"Recon, MLOps, Insurance, Mutual Fund, Stocks, DNAV",Medium,High,High,Good,Medium,Low
+Client 445,Medium,Investment,45,Short,"DNAV, Stocks",High,Low,High,Poor,Medium,Medium
+Client 446,Low,Insurance,39,Long,"Mutual Fund, Retirement, Ariel, Recon, Stocks",Medium,High,High,Good,Medium,Medium
+Client 447,High,Investment,55,Medium,"Insurance, Stocks, DNAV, MLOps",Low,Medium,Low,Good,High,Medium
+Client 448,Low,Investment,71,Medium,"Retirement, Stocks, Insurance, Ariel, Recon",Low,High,Medium,Good,Medium,Low
+Client 449,High,Investment,69,Medium,"Retirement, Ariel",Low,Medium,High,Poor,Medium,Medium
+Client 450,Low,Investment,73,Long,"Recon, Ariel, Mutual Fund, MLOps, Insurance, DNAV",High,Low,Medium,Excellent,Low,Low
+Client 451,Low,Investment,57,Long,"Insurance, Recon, Mutual Fund, Ariel",High,Medium,Medium,Excellent,Medium,Medium
+Client 452,Low,Stocks,25,Long,"Recon, Ariel, Retirement, Insurance, Stocks",High,Medium,Medium,Good,Medium,High
+Client 453,Low,Stocks,52,Medium,"Recon, Ariel, DNAV, Retirement, Stocks, Insurance",Medium,Medium,Low,Poor,Medium,Medium
+Client 454,Medium,Stocks,24,Medium,Ariel,Medium,Medium,Low,Good,Low,Low
+Client 455,Low,Investment,36,Short,"Stocks, Insurance, Recon, Mutual Fund, Ariel, MLOps, DNAV",Low,High,High,Good,Low,Low
+Client 456,Medium,Insurance,73,Long,"Mutual Fund, Insurance, DNAV, Retirement, Recon, Stocks",Low,Medium,Low,Good,Medium,High
+Client 457,High,Stocks,1,Medium,"Stocks, Ariel, Insurance",Low,Low,Low,Poor,High,High
+Client 458,Medium,Investment,78,Short,"Insurance, Retirement, Stocks, Recon, DNAV, Mutual Fund, MLOps, Ariel",Medium,Medium,Medium,Good,Medium,Medium
+Client 459,Low,Insurance,24,Short,"Insurance, Ariel",Medium,Medium,Medium,Good,Low,Medium
+Client 460,High,Stocks,41,Medium,"DNAV, Retirement, MLOps",Low,Medium,Medium,Good,Low,Low
+Client 461,Low,Investment,57,Long,"Stocks, DNAV, Ariel, MLOps",High,Medium,Low,Good,Low,Low
+Client 462,Medium,Insurance,22,Medium,"Ariel, Mutual Fund, MLOps, Recon, Stocks",Low,Low,Low,Good,High,Medium
+Client 463,High,Insurance,70,Medium,"Retirement, Ariel, Insurance, MLOps, Stocks, Recon, DNAV, Mutual Fund",Medium,Low,High,Poor,Low,Medium
+Client 464,Low,Stocks,45,Long,"Insurance, Recon",Low,High,Medium,Poor,High,Low
+Client 465,Low,Stocks,40,Short,"Mutual Fund, Insurance, Retirement, DNAV, Ariel, MLOps, Recon, Stocks",Medium,Medium,Low,Good,Medium,Medium
+Client 466,High,Insurance,15,Short,"Recon, MLOps, Retirement, Stocks, Mutual Fund, Ariel",Low,Low,High,Good,Medium,Low
+Client 467,Low,Investment,53,Short,"Retirement, Insurance, Stocks",Low,Low,Medium,Excellent,High,Medium
+Client 468,Low,Investment,49,Short,"Mutual Fund, Retirement, Stocks, Insurance",Medium,Medium,High,Excellent,Low,Low
+Client 469,Low,Insurance,10,Short,"Recon, Mutual Fund, DNAV, Retirement, MLOps, Ariel",Low,High,High,Good,High,High
+Client 470,Medium,Investment,65,Long,"MLOps, Ariel, Mutual Fund, Retirement, DNAV, Stocks, Insurance, Recon",Medium,High,Medium,Poor,High,High
+Client 471,Medium,Investment,26,Long,"Mutual Fund, Insurance, Ariel, MLOps, Retirement, DNAV",High,Low,Medium,Poor,Low,Medium
+Client 472,Low,Investment,27,Short,Insurance,Medium,Low,Low,Good,Medium,Medium
+Client 473,High,Investment,74,Long,"Insurance, Retirement, DNAV, Ariel, Recon, MLOps",High,Medium,High,Good,Medium,Low
+Client 474,Medium,Investment,4,Long,"DNAV, Mutual Fund, Stocks, Recon, Ariel",High,Medium,Low,Poor,High,Low
+Client 475,Medium,Insurance,14,Short,MLOps,High,Low,Medium,Poor,Medium,Medium
+Client 476,Low,Investment,5,Long,"Insurance, MLOps, Mutual Fund, Ariel, Stocks, Retirement, Recon, DNAV",Low,High,High,Poor,High,Low
+Client 477,Medium,Insurance,45,Medium,"DNAV, Recon, Insurance, Mutual Fund, Retirement",High,Low,Low,Poor,Medium,High
+Client 478,Medium,Stocks,37,Short,"Mutual Fund, Retirement, Insurance",Low,Medium,Medium,Good,Low,High
+Client 479,Low,Investment,58,Short,"MLOps, Stocks, Ariel, Retirement, Insurance",High,Low,Medium,Excellent,Low,Low
+Client 480,Medium,Insurance,71,Short,"Ariel, Insurance, Retirement, MLOps, Mutual Fund, Recon",High,Medium,Medium,Excellent,Medium,Low
+Client 481,Low,Insurance,4,Long,"Ariel, Mutual Fund",Low,High,High,Excellent,Medium,High
+Client 482,Low,Insurance,35,Short,DNAV,Low,Medium,High,Excellent,Low,Low
+Client 483,Medium,Investment,66,Long,Mutual Fund,High,High,Low,Poor,Low,Medium
+Client 484,High,Stocks,73,Medium,"MLOps, DNAV",High,Medium,Low,Good,Medium,Medium
+Client 485,High,Investment,25,Short,DNAV,High,Low,High,Excellent,High,High
+Client 486,Low,Investment,40,Short,"Mutual Fund, Recon, MLOps, Stocks",High,Medium,Low,Poor,Medium,High
+Client 487,High,Investment,25,Short,"MLOps, DNAV, Stocks, Recon, Insurance, Retirement, Mutual Fund, Ariel",Medium,Low,Low,Excellent,High,Medium
+Client 488,Low,Investment,14,Long,"Mutual Fund, Stocks, Recon, DNAV",Medium,Low,High,Excellent,Low,Low
+Client 489,Medium,Stocks,71,Short,"DNAV, Insurance, Mutual Fund, Recon, MLOps, Retirement",Low,Medium,Low,Excellent,Low,Medium
+Client 490,Low,Stocks,8,Medium,"Stocks, Mutual Fund, Insurance, Recon, Ariel, MLOps",Low,Low,High,Poor,High,Medium
+Client 491,Medium,Investment,57,Short,"Recon, MLOps",Medium,Medium,Medium,Good,High,Medium
+Client 492,Medium,Stocks,24,Long,"DNAV, Recon, Mutual Fund, Insurance",Medium,High,Low,Good,Low,Low
+Client 493,High,Stocks,45,Short,"Insurance, Stocks, Mutual Fund, MLOps, Ariel, Recon, Retirement, DNAV",Medium,Medium,Medium,Poor,Low,Medium
+Client 494,High,Insurance,35,Medium,MLOps,High,High,Medium,Excellent,High,Medium
+Client 495,High,Insurance,14,Medium,"Ariel, Mutual Fund",Medium,High,Medium,Good,High,High
+Client 496,Low,Stocks,65,Medium,"Insurance, Mutual Fund, Recon, Retirement",Low,Medium,Low,Poor,Low,Low
+Client 497,Medium,Stocks,40,Short,"Insurance, DNAV, Stocks, Ariel",High,High,High,Excellent,High,High
+Client 498,Medium,Insurance,32,Long,"DNAV, Ariel, Retirement, Stocks, Insurance, Mutual Fund, Recon, MLOps",High,Medium,Medium,Poor,High,Low
+Client 499,High,Stocks,16,Long,Mutual Fund,High,Medium,High,Excellent,High,High
+Client 500,Low,Insurance,6,Long,"DNAV, Retirement, Ariel, Recon, MLOps",High,Medium,Medium,Excellent,Low,Medium

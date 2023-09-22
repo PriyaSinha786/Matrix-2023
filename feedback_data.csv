@@ -1,0 +1,21 @@
+ClientID,Risk Tolerance,Financial Goals,Income Level,Age,Credit Score,Investment Horizon,Family Size,Preferred Services,Investment Experience,Risk Aversion,Customer Service,Satisfaction
+Client1,Low,Retirement,High,40,454,Medium,4,Recon,High,High,Good
+Client2,Low,Home Purchase,Low,78,571,Long,2,Insurance,Medium,Low,Good
+Client3,Medium,Education,Medium,59,602,Medium,3,Mutual Fund,Low,Low,Excellent
+Client4,High,Home Purchase,High,45,775,Short,1,Insurance,High,Medium,Good
+Client5,Medium,Retirement,Low,64,816,Medium,4,Mutual Fund,Low,High,Excellent
+Client6,Low,Emergency Fund,Medium,35,500,Long,3,Recon,Medium,Low,Good
+Client7,Medium,Education,Medium,57,655,Medium,2,Mutual Fund,High,Low,Excellent
+Client8,Low,Retirement,Low,72,530,Long,2,Insurance,Medium,Medium,Good
+Client9,High,Home Purchase,High,41,790,Short,5,Mutual Fund,High,High,Excellent
+Client10,Medium,Emergency Fund,Medium,52,625,Medium,3,Recon,Medium,Low,Good
+Client11,High,Retirement,High,48,780,Short,2,Insurance,High,High,Excellent
+Client12,Medium,Education,Medium,63,640,Medium,4,Mutual Fund,Low,Low,Good
+Client13,Low,Home Purchase,Low,75,550,Long,2,Recon,Medium,Medium,Excellent
+Client14,Low,Emergency Fund,High,38,480,Short,3,Insurance,Medium,Low,Good
+Client15,High,Retirement,High,55,760,Medium,4,Mutual Fund,High,High,Good
+Client16,Medium,Education,Low,47,610,Medium,2,Recon,Low,Medium,Excellent
+Client17,Low,Home Purchase,Medium,67,520,Long,4,Insurance,Medium,Low,Good
+Client18,Low,Emergency Fund,Low,43,490,Short,1,Mutual Fund,Medium,Medium,Good
+Client19,High,Retirement,High,60,750,Medium,3,Recon,High,High,Excellent
+Client20,Medium,Education,Medium,50,635,Medium,2,Mutual Fund,Low,Low,Good

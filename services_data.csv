@@ -1,0 +1,9 @@
+Service,Interest Rate,Risk Level,Liquidity,Fees,Accessibility,Returns,Duration,Customer Service,Security,Flexibility
+Ariel,0.1,Low,Low,Low,0.06,Low,Short,Excellent,Medium,High
+Recon,0.1,Medium,High,Low,0.08,High,Medium,Good,Low,Medium
+MLOps,0.0,Medium,Low,Medium,0.1,High,Medium,Poor,Low,Medium
+DNAV,0.1,Low,Medium,High,0.02,Medium,Medium,Excellent,Low,Medium
+Insurance,0.0,High,Low,High,0.02,Medium,Short,Poor,Medium,Medium
+Retirement,0.0,High,Low,Medium,0.09,High,Short,Poor,High,Low
+Mutual Fund,0.1,Low,High,High,0.02,High,Long,Good,Low,High
+Stocks,0.1,Low,Low,Medium,0.06,Low,Long,Poor,Low,Low
